@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/images/', and edit following img items.
 
 - name: My first project
-  gh_user: wildcat
-  repo: project1
+  gh_user: velthuis
+  repo: website
   file: # only needed if you want to directly link to just one file in a repo instead of the repo itself
   img: /images/file.png
   desc: A basic project that was part of a course assignment 
